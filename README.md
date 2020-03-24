@@ -53,7 +53,7 @@ Como diria Tyler Durden:
       return image.subtract(273.15)
           .set('system:time_start', image.get('system:time_start'));
     })
-´´´
+```
 
 #Tabelas
 | PONTOS |  x  |  y |  z |
