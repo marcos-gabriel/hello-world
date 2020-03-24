@@ -28,12 +28,12 @@ __negrito__
 #Lista não ordenada
 - primeira
 - segunda
-
 * terceira
 * quarta
 
 #Links
 [GEE](https://earthengine.google.com)
+
 [DATASETS GEE](https://developers.google.com/earth-engine/datasets/)
 
 #Quotes
@@ -57,7 +57,7 @@ Como diria Tyler Durden:
 
 #Tabelas
 | PONTOS |  x  |  y |  z |
-|:------:|:---:|:--:|:--:|
+|--------|-----|----|----|
 |    1   | 150 | 47 | -2 |
 |    2   | 157 | 59 |  3 |
 |    3   | 144 | 32 |  5 |
