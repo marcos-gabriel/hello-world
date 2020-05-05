@@ -1,7 +1,7 @@
 # hello-world
 Oi, eu sou Gabriel!
 Esse edit é para eu aprender a mexer no GitHub e entender como funcionam as coisas.
-Eu gosto de Python, Javascript e Linux.
+Eu gosto de HTML, CSS, Bootstrap, Python, Javascript e Linux.
 
 ## Trabalhando com o README.md (markdown)
 Nesse tópico iremos verificar a sintaxe de como estilizar o texto dentro do README.md
